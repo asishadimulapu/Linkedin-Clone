@@ -8,9 +8,7 @@ A fully responsive, scalable **LinkedIn Clone** built with **React**, **TypeScri
 ## 🌟 Features
 
 - 📰 **Post Feed** – Real-time posts with author details
-- ✍️ **Create Post** – Dynamic form to share content
 - 👤 **Editable Profile** – In-place editing with validations
-- 🌐 **Trending News Sidebar** – Mocked live trends
 - 🤝 **Connections List** – Displays user contacts
 - 📚 **Recent Activities** – User’s interaction history
 - 🌙 **Light/Dark Mode** – Seamless theme toggle
