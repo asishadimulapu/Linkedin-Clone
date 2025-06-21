@@ -104,8 +104,8 @@ npm run build
 
 ## 📸 Screenshots
 
-> Showcase visuals of key features and responsiveness  
-> Include feed view, post creation, and theme toggle
+![profile-palooza-recreate - Google Chrome 21-06-2025 12_15_34](https://github.com/user-attachments/assets/17fae583-a7e9-40ac-be51-5474750eaa1f)
+
 
 ---
 
