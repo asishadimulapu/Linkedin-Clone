@@ -116,11 +116,6 @@ Fork the repo, create a new branch, and submit a pull request.
 
 ---
 
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
-
----
 
 ## 👨‍💻 Author
 
