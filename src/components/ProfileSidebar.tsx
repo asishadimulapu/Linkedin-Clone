@@ -22,7 +22,7 @@ const ProfileSidebar = () => {
         <div className="px-6 pb-6 -mt-10 relative">
           <div className="w-20 h-20 bg-white dark:bg-gray-800 rounded-full border-4 border-white dark:border-gray-800 mb-4 overflow-hidden shadow-lg">
             <img 
-              src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=150&h=150&fit=crop&crop=face"
+              src="https://images.stockcake.com/public/e/7/1/e71ca2d8-cda0-461f-9d70-1e3c0dcb2d3f_large/handsome-man-portrait-stockcake.jpg"
               alt="Profile" 
               className="w-full h-full object-cover"
             />
